@@ -12,6 +12,7 @@ Response: `job:1669459087540`
 ```bash
 curl -X GET http://localhost:3030/checkstatus\?jobId\=job:1669459087540
 ```
-response will be held until the job is completed
+The response will be held until the job is completed
+
 Response: `JobStatus: Complete 100%`
 
