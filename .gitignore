@@ -1,3 +1,5 @@
 push-model-demo/node_modules
 short-polling-job-statusdemo/node_modules
 long-polling-job-statusdemo/node_modules
+server-sent-events-demo/node_modules
+pub-sub-demo/node_modules
